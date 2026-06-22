@@ -1,3 +1,4 @@
+![Project Thumbnail](assets/thumbnail.png)
 # AI-Powered Lead Qualification System
 
 A practical project demonstrating how UI/UX Design, Frontend Development, AI Automation, and Workflow Orchestration can work together in a real business use case.
